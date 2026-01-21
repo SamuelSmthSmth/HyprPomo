@@ -1,7 +1,3 @@
-Here is the `README.md` file formatted for GitHub, incorporating all content and necessary code blocks.
-
----
-
 HyprPomo (v5.3) 
 
 A high-performance, gamified Pomodoro timer designed for Hyprland and CLI power users. This tool combines productivity tracking with RPG elements to keep you focused. 
@@ -253,7 +249,3 @@ The script writes the current timer status (e.g., "WORK 24:59" or "FLOW +01:30")
 Data Storage 
 
 Your user history, accumulated XP, current level, and active tasks are stored in JSON format at: `~/.local/share/hypr_pomo/data.json` 
-
----
-
-**Next Step:** Would you like me to help you create the `install.sh` script mentioned in the "Quick Install" section based on the manual steps provided?
